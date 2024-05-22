@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .main{
+    margin-left: 500px;
+} */
+
+.main img{
+    width: 600px;
+    height: 500px;
+ 
+    margin-left: 450px;
+}
+.main h1{
+    margin-bottom: 50px;
+    margin-left: 610px;
+}
+.main h4{
+    margin-left: 650px;
+    font-size: 23px;
+}
+.main h2{
+    margin-left: 240px;
+    margin-top: 40px;
+
+}
+.main p {
+    margin-left: 140px;
+    
+}
+.main span{
+    margin-left: 450px;
+}
+.second {
+    margin-left: 650px;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.second-2 {
+    margin-left: 380px;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+.second-2 a{
+margin-left: 20px;
+}
+.main-2 h3{
+   margin-top: 20px;
+    margin-left: 670px;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+
+.main-2 img{
+    width: 600px;
+    height: 500px;
+ 
+    margin-left: 450px;
+}
+.main-2 h1{
+    margin-bottom: 50px;
+    margin-left: 610px;
+}
+.main-2 h4{
+    margin-left: 650px;
+    font-size: 27px;
+    margin-top: 30px;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.main-2 h2{
+    margin-left: 240px;
+    margin-top: 40px;
+
+}
+.main-2 p {
+  margin-left: 50px;
+  margin-top: 30px;
+  font-family: 'Times New Roman', Times, serif;
+    
+}
+.main-2 span{
+    margin-left: 610px;
+    font-family: 'Times New Roman', Times, serif;
+}
+hr {
+    display: block;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    unicode-bidi: isolate;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+.main-2 abbr{
+    margin-left: 700px;
+   
+  
+}
+.abbr{
+    margin-top: 20px;
+}
+.blank{
+    height: 50px;
+}
+.img img{
+    height: 700px;
+}
+.pic{
+    display: flex;
+flex-wrap: wrap;
+justify-content: left;
+align-items: start;
+gap: 10px;
+margin-left: 150px;
+cursor: pointer;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+   
+    cursor: pointer;
+}
